@@ -5,3 +5,4 @@ She use C++!
 It use php!
 life is beautiful, wonderful, great!
 github is best.
+my stupid boss still prefers SVN.
